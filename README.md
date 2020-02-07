@@ -7,3 +7,4 @@ Helper functions for ner data formats conversion from one to another
 
 ## Different Archs for NER
 - Vanilla RNN
+- GRU RNN
